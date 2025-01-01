@@ -1,4 +1,4 @@
-var images = ['https://iili.io/2SC3v2a.jpg'];
+var images = ['https://iili.io/2SCHJwP.jpg'];
 
 var currentIndex = 0;
 var totalClicks = 0;
